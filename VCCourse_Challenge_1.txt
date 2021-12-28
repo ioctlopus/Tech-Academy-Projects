@@ -1,0 +1,1 @@
+This is a good, old-fashioned, ASCII text file for demonstration purposes.
